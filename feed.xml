@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Pierre-Elien</title>
+    <link href="https://www.pierre-elien.com/feed.xml" rel="self" />
+    <link href="https://www.pierre-elien.com" />
+    <updated>2020-11-20T23:19:02+01:00</updated>
+    <author>
+        <name>Samuel Pierre-Elien</name>
+    </author>
+    <id>https://www.pierre-elien.com</id>
+
+    <entry>
+        <title>Samuel Pierre-Elien</title>
+        <author>
+            <name>Samuel Pierre-Elien</name>
+        </author>
+        <link href="https://www.pierre-elien.com/samuel-pierre-elien/"/>
+        <id>https://www.pierre-elien.com/samuel-pierre-elien/</id>
+
+        <updated>2020-11-20T23:19:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Who Am I ? A computer enthousiast, loving God, people and nature. Thriving to become who I am to be. I won't share my life here, though. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="who-am-i-">
+      Who Am I ?
+    </h2>
+
+  <p>
+    A computer enthousiast, loving God, people and nature. Thriving to become who I am to be. I won't share my life here, though.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
